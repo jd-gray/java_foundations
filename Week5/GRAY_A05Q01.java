@@ -1,5 +1,5 @@
 /**
- * Assignment 4 Question 2: Capture user input of 5 numbers and then display the average.
+ * Assignment 5 Question 1: Capture user input of 5 numbers and then display the average.
  * 													Program only accepts numbers and warns the user if an invalid
  * 													character is entered.
  *   
@@ -13,7 +13,7 @@ package Week5;
 
 import java.util.Scanner;
 
-public class GRAY_A04Q02 {
+public class GRAY_A05Q01 {
 	static final int MAX_SIZE = 5;
 	static double[] values = new double[MAX_SIZE];
 	static double sum = 0;

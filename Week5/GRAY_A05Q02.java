@@ -1,5 +1,5 @@
 /**
- * Assignment 4 Question 3: Program that reads strings and then prints strings
+ * Assignment 5 Question 2: Program that reads strings and then prints strings
  * 													to file. Exits when the user types 'DONE'.
  *   
  * Completion time: 20 minutes
@@ -13,7 +13,7 @@ package Week5;
 import java.util.Scanner;
 import java.io.*;
 
-public class GRAY_A04Q03 {
+public class GRAY_A05Q02 {
 	public static void main(String[] args) throws IOException {
 		Scanner scan = new Scanner(System.in);
 		String file = "userStrings.txt";
